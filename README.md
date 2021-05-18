@@ -1,4 +1,4 @@
-# &emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;Movere Vendas
+# &emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;Movere Vendas
 **&emsp;&emsp;Uma aplicação web feita para segunda fase do programa de estagio da Movere**
 
 <img src="tela-principal-2.png">  
@@ -10,7 +10,7 @@ Uma aplicação web responsiva e altamente performatica capaz de fazer registro 
 
 Simular o desenvolvimento de um software para um cliente. Comprindo todos os requisitos solicitados na segunda faze do programa de estagio, e alem.
 
-## &emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;Screen Shots
+## &emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&nbsp;Screen Shots
 
 * ### tela de login
 <img src="login.png">
