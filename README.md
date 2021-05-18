@@ -1,4 +1,4 @@
-# &emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;Movere Vendas
+# &emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;Movere Vendas
 **&emsp;&emsp;Uma aplicação web feita para segunda fase do programa de estagio da Movere**
 
 <img src="tela-principal-2.png">  
@@ -95,8 +95,11 @@ Simular o desenvolvimento de um software para um cliente. Comprindo todos os req
 ## Como implementar na Web
 
 * Entre no painel do seu serviço de hospedagem
+ 
 * Importe o banco de dados como foi feito localmente
+ 
 * Na pasta config.php mude os valores das constantes para os valores do seu banco de dados fornecidas pelo seu serviço de hospedagem.
+ 
 * Se tiver a aplicação implementada localmente, voce pode usar o filezilla para exportar seus arquivos e dados. 
 
 
