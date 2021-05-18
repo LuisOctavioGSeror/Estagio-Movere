@@ -1,7 +1,7 @@
 # &emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;Movere Vendas
 **&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;Uma aplicação web feita para segunda fase do programa de estagio da Movere**
 
-<img src="tela-principal-2.png">  
+<img src="movere.gif">  
 
 ## O que é?
 Uma aplicação web responsiva e altamente performatica capaz de fazer registro de vendas e exibi-las em uma tabela.
