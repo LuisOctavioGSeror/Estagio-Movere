@@ -85,11 +85,11 @@ Simular o desenvolvimento de um software para um cliente. Comprindo todos os req
 * Abrir o xamp e dar um start no apache e no Mysql
 
 * Vá até a pasta xampp instalada no sistema, e vá até a pasta htdocs
-* Dentro da pasta htdocs ponha a pasta baixada deste repositorio
+* Dentro da pasta htdocs ponha a pasta "movere-vendas" baixada deste repositorio
 * abra o navegador e digite localhost/phpmyadmin/
 * Va na aba importar
-* dentro da pasta baixada desde repositorio va até a pasta "sql banco de dados"
-* desntro desta pasta, arraste o arquivo .sql para o phpmyadmin no navegador, para exportar o banco de dados de teste
+* dentro da pasta baixada desde repositorio "movere-vendas" va até a pasta "sql banco de dados"
+* dentro desta pasta, arraste o arquivo .sql para o phpmyadmin no navegador, para exportar o banco de dados de teste
 * Pronto!! agora é só digitar no seu navegador "localhost/movere-vendas/"
 
 ## Como implementar na Web
